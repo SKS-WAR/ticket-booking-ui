@@ -36,8 +36,10 @@ const PostForm = (props) => {
   }
   return (
     <div>
-      
       <div className='m-5 row g-2'>
+      <h3>
+        Please enter details
+      </h3>
         <div className='col-6'>
           <label htmlFor='rows'>
             Enter rows
